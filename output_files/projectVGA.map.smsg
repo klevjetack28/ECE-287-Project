@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at projectVGA.v(430): always construct contains both blocking and non-blocking assignments File: C:/Users/tacketle/Downloads/projectVGA-20221209T160752Z-001/projectVGA/projectVGA.v Line: 430
+Info (10281): Verilog HDL Declaration information at projectVGA.v(105): object "start" differs only in case from object "START" in the same scope File: C:/Users/tacketle/Downloads/projectVGA-20221209T160752Z-001/projectVGA/projectVGA.v Line: 105

@@ -1,0 +1,13 @@
+module clock_count(clock, clock_count);
+input clock;
+output [63:0] clock_count
+reg count;
+
+always @ (posedge clock)
+begin
+	count <= count + 1'd1;
+	if (count == 64'd10000000)
+		clock_count <= clock_count + 1'd1;
+end
+
+endmodule

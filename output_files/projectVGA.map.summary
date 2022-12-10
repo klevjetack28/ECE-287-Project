@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 09 18:05:18 2022
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : projectVGA
+Top-level Entity Name : projectVGA
+Family : Cyclone IV E
+Total logic elements : 12,481
+    Total combinational functions : 12,452
+    Dedicated logic registers : 2,151
+Total registers : 2151
+Total pins : 78
+Total virtual pins : 0
+Total memory bits : 230,400
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
