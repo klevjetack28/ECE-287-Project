@@ -14,3 +14,21 @@ KEY[2] - This is the control to move right in the game. Hold it down to move rig
 
 KEY[3] - This is the control to move left in the game. Hold it down to move left and to stop moving left stop pressing the button.
 
+File Information
+vga_adapter - This is a file inside of my project file that contains all of the information on the VGA. This is what I instantiated into my top level module that takes in my x and y coordinates and outputs them onto the screen.
+
+projectVGA.v - This is my top level module that has almost my entire code inside. This contains my FSM that runs my program and has everything from a background to movement and collision.
+
+lfsr.v - This is to generate a random number for my first object.
+
+lfsr2.v - This is to generate a random number for my second object.
+
+lfsr3.v - This is to generate a random number for my third object.
+
+seven_segment.v - This is the file that displays the seven segment numbers for score and time.
+
+three_decimal_vals - This file turns the time number into a number that the seven_segment.v file is able to read and output.
+
+three_decimal_vals_score - This file takes in the score input and turns it into something that the seven_segment.v file is able to output.
+
+
